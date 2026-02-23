@@ -15,5 +15,5 @@ correct value regardless of Contact type.
 - Github link with all files needed as well: https://github.com/Cesar-KC/ContactManagerApp
 
 - main driver is 'ContactManagerApp.java'
-- inside src/com/cesar/contactmanager 
+- main driver is inside src/com/cesar/contactmanager 
 - ignore 'hourly' and 'salaried' comments, as i forgot to remove as i resused some code from our payrollApp
