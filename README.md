@@ -12,8 +12,10 @@ user to confirm info, and if they want to update any wrong info, we can do so us
 correct value regardless of Contact type.
 
 //Notes:
-- Github link with all files needed as well: https://github.com/Cesar-KC/ContactManagerApp
 
 - main driver is 'ContactManagerApp.java'
 - main driver is inside src/com/cesar/contactmanager 
 - ignore 'hourly' and 'salaried' comments, as i forgot to remove as i resused some code from our payrollApp
+- UML diagram attached in canvas and in this repo
+
+- I think that is all!
